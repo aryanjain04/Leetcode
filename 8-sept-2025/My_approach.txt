@@ -1,0 +1,3 @@
+First approach was to set a as 1 and b as n-1
+Since 1 is already No-zero, need to check if b is no-zero, if not then reduce b and increase a till both are no-zero
+Realised recursion will be the best best
