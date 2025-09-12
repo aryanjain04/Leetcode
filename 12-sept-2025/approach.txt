@@ -1,0 +1,2 @@
+alice only loses if string has no vowels to begin with.
+since assumption is that both play optimally, as long as the string has one or more vowels, alice, by playing first, can maintain an odd number of vowels since Bob can only remove
